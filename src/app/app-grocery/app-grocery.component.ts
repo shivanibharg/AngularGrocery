@@ -15,7 +15,7 @@ export class AppGroceryComponent {
     this.tasks.push({name: this.task});
     this.task = '';
     }
-    else{ {"Error"} }
+    
   }
 
 }
